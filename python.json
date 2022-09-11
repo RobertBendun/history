@@ -1,0 +1,268 @@
+{
+	"category": "programming languages",
+	"items": [
+		{
+			"date": "1991-02-20",
+			"version": "0.9",
+			"features": [
+				"list, dict, str datatypes",
+				"classes with inheritance",
+				"exception handling",
+				"module system"
+			]
+		},
+		{
+			"date": "1994-01-26",
+			"version": "1.0",
+			"src": "https://en.wikipedia.org/wiki/History_of_Python#Version_1",
+			"features": [
+				"lambda, map, filter and reduce"
+			]
+		},
+		{
+			"date": "1994-10-11",
+			"version": "1.1"
+		},
+		{
+			"date": "1995-04-13",
+			"version": "1.2"
+		},
+		{
+			"date": "1995-10-13",
+			"version": "1.3"
+		},
+		{
+			"date": "1996-10-25",
+			"version": "1.4",
+			"src": "https://github.com/tpn/python-1.4",
+			"features": [
+				"SyntaxError exceptions now shows line number",
+				"Name mangling to support private variables",
+				"lstrip, rstrip functions for strings",
+				"operator module",
+				"Power operator **",
+				"Support for complex numbers",
+				"list builtin function"
+			]
+		},
+		{
+			"date": "1998-01-03",
+			"version": "1.5",
+			"features": [
+				"Safe printing of recursive lists and dictionaries",
+				"raise can re-raise previous exception",
+				"assert statement",
+				"re module",
+				"raw string literals",
+				"Exceptions are now classes",
+				"Dictionaries support .get method"
+			]
+		},
+		{
+			"date": "2000-09-05",
+			"version": "1.6",
+			"features": [
+				"String methods like .lower()",
+				"Calling function with tuple arguments using *args and **kwargs",
+				"urllib2 module"
+			]
+		},
+		{
+			"date": "2000-10-16",
+			"version": "2.0",
+			"features": [
+				"Unicode strings",
+				"List comprehansions",
+				"Augmented assigments",
+				"String methods like capitalize, find or replace",
+				"Calling function with tuple arguments using *args and **kwargs",
+				"Print statement redirection using >>",
+				"zip builtin"
+			]
+		},
+		{
+			"date": "2001-04-15",
+			"version": "2.1",
+			"features": [
+				"Indivdual overloading of comparison operators",
+				"Warning framework",
+				"Function attributes",
+			]
+		},
+		{
+			"date": "2001-12-21",
+			"version": "2.2",
+			"features": [
+				"Attribute descriptors",
+				"Iterators",
+				"New // division operator",
+		},
+		{
+			"date": "2003-06-29",
+			"version": "2.3",
+			"features": [
+				"set datatype in sets module",
+				"generators",
+				"source code encodings",
+				"enumerate builtin",
+				"logging package",
+				"boolean type with True and False constants",
+				"csv module",
+				"step argument for slices"
+			]
+		},
+		{
+			"date": "2004-11-30",
+			"version": "2.4",
+			"features": [
+				"set builtin",
+				"generator expressions",
+				"string.Template class",
+				"decorators for functions and methods",
+				"reversed builtin",
+				"subprocess module",
+				"decimal data type",
+				""
+			]
+		},
+		{
+			"date": "2006-09-19",
+			"version": "2.5",
+			"features": [
+				"partial function application",
+				"multiline and relative imports",
+				"executing modules as scripts with -m",
+				"generators with yield expressions",
+				"conditional expressions"
+			]
+		},
+		{
+			"date": "2008-10-01",
+			"version": "2.6",
+			"features": [
+				"with statement",
+				"context managers",
+				"contextlib module",
+				"multiprocessing package",
+				"String formatting with format method"
+			]
+		},
+		{
+			"date": "2010-07-03",
+			"version": "2.7",
+			"features": [
+				"ordered dictionary type",
+				"set literals",
+				"set and dictionary comprehansions",
+				"dictionary views"
+			]
+		},
+		{
+			"date": "2008-12-03",
+			"version": "3.0",
+			"features": [
+				"print is a function",
+				"views and iterators instead of lists",
+				"int type as only integral built-in type",
+				"Unicode strings by default",
+				"Function argument and return value annotations",
+				"nonlocal statement",
+				"keyword-only arguments",
+				"dictionary comprehansions",
+				"set literals",
+				"octal literals",
+				"binary literals",
+				"new metaclass syntax"
+			]
+		},
+		{
+			"date": "2009-06-27",
+			"version": "3.1",
+			"features": [
+				"ordered dictionary",
+				"with statements with multiple context managers"
+			]
+		},
+		{
+			"date": "2011-02-20",
+			"version": "3.2",
+			"features": [
+				"futures",
+				"Stable ABI definition"
+			]
+		},
+		{
+			"date": "2012-09-29",
+			"version": "3.3",
+			"features": [
+				"delagate to subgenerator with yield from",
+				"Virtual environments",
+				"Suppressing exception context with raise X from Y",
+			]
+		},
+		{
+			"date": "2014-03-16",
+			"version": "3.4",
+			"features": [
+				"enum module",
+				"asyncio module",
+				"pathlib module"
+			]
+		},
+		{
+			"date": "2015-09-13",
+			"version": "3.5",
+			"features": [
+				"typing module",
+				"Coroutines with async and await syntax",
+				"Operator @ for matrix multiplication"
+			]
+		},
+		{
+			"date": "2016-12-23",
+			"version": "3.6",
+			"features": [
+				"Preserving Keyword Argument Order",
+				"Literal string interprolation (fstrings)",
+				"Underscores in numeric literals",
+				"Simpler class customization with __init_subclass__ hook",
+			]
+		},
+		{
+			"date": "2018-06-27",
+			"version": "3.7",
+			"features": [
+				"Built-in breakpoint()",
+				"Data Classes",
+				"Core support for typing module and generic types",
+				"Time functions with nanosecond resolution"
+			]
+		},
+		{
+			"date": "2019-10-14",
+			"version": "3.8",
+			"features": [
+				"Assigment expressions",
+				"Positional-only arguments",
+				"f-strings support = specifier",
+			]
+		},
+		{
+			"date": "2020-10-05",
+			"version": "3.9",
+			"features": [
+				"Union operators in dict",
+				"String methods to remove prefixes and suffixes",
+				"Flexible function and variable annotations"
+			]
+		},
+		{
+			"date": "2021-10-04",
+			"version": "3.10",
+			"features": [
+				"Allow writing union types as X | Y",
+				"Structural pattern matching"
+			]
+		}
+	]
+}
