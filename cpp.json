@@ -1,0 +1,100 @@
+{
+	"name": "C++",
+	"category": "programming languages",
+	"items": [
+		{
+			"date": "1998-09-01",
+			"version": "C++98",
+			"features": [
+				"RTTI (dynamic_cast and typeid)",
+				"bool type",
+				"I/O streams",
+				"complex numbers",
+				"member templates",
+				"template instantitaion",
+				"declarations in conditions",
+				"STL containers, algorithms, iterators and function objects"
+			]
+		},
+		{
+			"date": "2003-10-16",
+			"version": "C++03",
+			"features": []
+		},
+		{
+			"date": "2011-09-01",
+			"version": "C++11",
+			"features": [
+				"thread library",
+				"error_code and error_condition",
+				"auto and decltype",
+				"defaulted and deleted functions",
+				"final and override",
+				"trailing return type",
+				"rvalue references",
+				"move constructors",
+				"scoped enums",
+				"constexpr",
+				"list initialization",
+				"nullptr",
+				"type aliases with using",
+				"variadic templates",
+				"lambda expressions",
+				"attributes",
+				"user-defined literals",
+				"range-for",
+				"static_assert",
+				"<array>, <chrono>, <random>, <tuple> and others",
+				"smart pointers",
+			]
+		},
+		{
+			"version": "C++14",
+			"date": "2014-12-15",
+			"features": [
+				"variable templates",
+				"generic lambdas",
+				"better constexpr support",
+				"digit separators",
+				"binary literals",
+				"return type deduction",
+				"std::exchange",
+			]
+		},
+		{
+			"version": "C++17",
+			"date": "2017-12-01",
+			"features": [
+				"filesystem library",
+				"std::optional, std::variant and std::string_view",
+				"fold-expressions",
+				"class template argument deduction",
+				"non-type template parameters",
+				"compile-time if constexpr",
+				"inline variables",
+				"structured binding",
+				"initializers for if and switch",
+				"noexcept part of type system",
+				"constexpr lambda"
+			]
+		},
+		{
+			"version": "C++20",
+			"date": "2020-12",
+			"features": [
+				"3-way comparison operator <=>",
+				"pack-expansion in lambda init-captures",
+				"consteval and constinit",
+				"signed integers are 2's complement",
+				"coroutines",
+				"modules",
+				"constaints and concepts",
+				"std::span",
+				"std::format",
+				"std::chrono major improvements",
+				"ranges",
+				"midpoint and lerp"
+			]
+		}
+	]
+}
