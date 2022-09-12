@@ -1,7 +1,24 @@
 {
 	"name": "Python",
 	"category": "programming languages",
-	"items": [
+	"website": "https://www.python.org/",
+	"influcenced_by": [
+		"ABC",
+		"ALGOL 68",
+		"APL",
+		"Ada",
+		"C",
+		"C++",
+		"CLU",
+		"Dylan",
+		"Haskell",
+		"Icon",
+		"Lisp",
+		"Modula-3",
+		"Perl",
+		"Standard ML"
+	],
+	"releases": [
 		{
 			"date": "1991-02-20",
 			"version": "0.9",

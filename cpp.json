@@ -1,7 +1,21 @@
 {
 	"name": "C++",
 	"category": "programming languages",
-	"items": [
+	"website": "https://en.wikipedia.org/wiki/C%2B%2B",
+	"influenced_by": [
+		"APL",
+		"Ada",
+		"Algol 68",
+		"BCPL",
+		"C",
+		"CLU",
+		"ML",
+		"Mesa",
+		"Modula-2",
+		"Simula",
+		"Smalltalk"
+	],
+	"releases": [
 		{
 			"date": "1998-09-01",
 			"version": "C++98",
