@@ -1,0 +1,80 @@
+{
+	"name": "Go",
+	"category": "programming languages",
+	"influenced_by": [
+		"APL",
+		"Active Oberon",
+		"Alef",
+		"C",
+		"Modula",
+		"Newsqueak",
+		"Oberon",
+		"Oberon-2",
+		"Pascal",
+		"Smalltalk"
+	],
+	"website": "https://go.dev",
+	"releases": [
+		{
+			"date": "2012-03-28",
+			"version": "1.0",
+			"src": "https://go.dev/doc/go1",
+			"features": [
+				"append builtin",
+				"close channel builtin",
+				"init routines can call goroutines",
+				"rune type",
+				"multiple assigment",
+				"package hierarchy",
+				"error type and errors package"
+			]
+		},
+		{
+			"version": "1.2",
+			"date": "2013-12-01",
+			"src": "https://go.dev/doc/go1.2",
+			"features": [
+				"thee-index slices allow to specify capacity of new slice",
+				"pre-emption in the scheduler",
+				"Cgo supports C++",
+				"Test coverage",
+				"encoding package adding xml, json and binary serialization"
+			]
+		},
+		{
+			"version": "1.3",
+			"date": "2014-06-18",
+			"src": "https://go.dev/doc/go1.3",
+			"features": [
+				"removed support for Windows 2000",
+				"support for Plan 9",
+				"Randomized iteration over small maps"
+			]
+		},
+		{
+			"version": "1.4",
+			"src": "https://go.dev/doc/go1.4",
+			"date": "2014-12-10",
+			"features": [
+				"for range loops without iteration variable",
+				"Double pointer does not automatically dereference",
+				"Translation of runtime to Go",
+				"canonical import paths",
+				"internal packages",
+				"go generate"
+			]
+		},
+		{
+			"version": "1.5",
+			"src": "https://go.dev/doc/go1.5",
+			"date": "2015-08-19",
+			"features": [
+				"compiler and runtime entirely in Go",
+				"concurrent garbage collector",
+				"go tool trace",
+				"go doc",
+				"type ellision in map literals keys"
+			]
+		}
+	]
+}

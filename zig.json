@@ -1,0 +1,130 @@
+{
+	"name": "Zig",
+	"category": "programming languages",
+	"influenced_by": [
+		"C",
+		"C++",
+		"LLVM IR",
+		"Go",
+		"Rust",
+		"JavaScript"
+	],
+	"website": "https://ziglang.org/",
+	"releases": [
+		{
+			"date": "2016-02-08",
+			"version": "0.1.1",
+			"src": "https://andrewkelley.me/post/intro-to-zig.html",
+			"features": [
+				"C ABI Compatibility",
+				"Optional type instead of null pointer",
+				"Error sets and unions",
+				"Constant expression evaluation",
+				"Conditional compilation",
+				"Compile time parameters to implement generics"
+			]
+		},
+		{
+			"date": "2018-03-15",
+			"version": "0.2.0",
+			"src": "https://ziglang.org/download/0.2.0/release-notes.html",
+			"features": [
+				"Unions and tag unions via union(enum)",
+				"Labeled loops, blocks, break and continue",
+				"goto is gone",
+				"error return traces",
+				"coroutines with async, await, suspend, resume and promise"
+			]
+		},
+		{
+			"date": "2018-09-28",
+			"version": "0.3.0",
+			"src": "https://ziglang.org/download/0.3.0/release-notes.html",
+			"features": [
+				"zig fmt",
+				"zig run",
+				"various pointer types: to item, to unknown number of items and pointer to array",
+				"this is not an keywords, it's a builtin",
+				"removed explicit casting syntax",
+				"@typeInfo builtin",
+				"zig init-lib and init-exe"
+			]
+		},
+		{
+			"date": "2019-04-08",
+			"version": "0.4.0",
+			"src": "https://ziglang.org/download/0.4.0/release-notes.html",
+			"features": [
+				"zig cc - a C compiler",
+				"libc included",
+				"Vector type for SIMD operations"
+			]
+		},
+		{
+			"date": "2019-09-30",
+			"version": "0.5.0",
+			"src": "https://ziglang.org/download/0.5.0/release-notes.html",
+			"features": [
+				"noinline",
+				"usingnamespace",
+				"external thread local variables",
+				"@hasField and @HasDecl predicates",
+				"Switch on error sets",
+				"Default struct field values",
+				"New array literal syntax",
+				"Builtin math functions",
+				"IO mode",
+				"Async functions"
+			]
+		},
+		{
+			"version": "0.6.0",
+			"date": "2020-04-13",
+			"src": "https://ziglang.org/download/0.6.0/release-notes.html",
+			"features": [
+				"Type coersion with @as",
+				"Sentinel-terminated pointers",
+				"Anonymous struct literals",
+				"Tuples",
+				"Calling convention with callconv",
+				"Comptime struct fields",
+				"Untyped struct fields",
+				"@bitSizeOf",
+				"noasync",
+				"Underscore separators in number literals"
+			]
+		},
+		{
+			"version": "0.7.0",
+			"date": "2020-11-08",
+			"src": "https://ziglang.org/download/0.7.0/release-notes.html",
+			"features": []
+		},
+		{
+			"version": "0.8.0",
+			"date": "2021-06-04",
+			"src": "https://ziglang.org/download/0.8.0/release-notes.html",
+			"features": [
+				"No more extern or packed enums",
+				"Require block after suspend",
+				"@extern builtin",
+				"nosuspend blocks"
+			]
+		},
+		{
+			"version": "0.9.0",
+			"date": "2021-12-20",
+			"src": "https://ziglang.org/download/0.9.0/release-notes.html",
+			"features": [
+				"Address spaces",
+				"More builtins return struct literals",
+				"@minimum and @maximum builtins",
+				"@select builtin",
+				"true, false, undefined and null are no longer keywords",
+				"usingnamespace doesn't import identifiers into current namespace",
+				"saturating arithmetic",
+				"compile errors for unused locals"
+			]
+		}
+	]
+}

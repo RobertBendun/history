@@ -1,0 +1,56 @@
+[
+	{
+		"name": "Guido van Rossum",
+		"birthday": "1956-01-31",
+		"known_for": [
+			"Python"
+		],
+		"country": "NL"
+	},
+	{
+		"name": "Bjarne Stroustrup",
+		"birthday": "1950-12-30",
+		"languages": [
+			"C++"
+		],
+		"country": "DK"
+	},
+	{
+		"name": "Andrew Kelly",
+		"birthday": null,
+		"languages": [
+			"Zig"
+		],
+		"country": "US"
+	},
+	{
+		"name": "Rob Pike",
+		"birthday": null,
+		"languages": [
+			"Go",
+			"Limbo",
+			"Newsqueak",
+			"Ivy"
+		],
+		"country": "CA"
+	},
+	{
+		"name": "Robert Griesemer",
+		"birthday": null,
+		"languages": [
+			"Go",
+			"Sawzall",
+			"Strongtalk"
+		],
+		"country": "CH"
+	},
+	{
+		"name": "Ken Thompson",
+		"birthday": "1943-02-04",
+		"languages": [
+			"B",
+			"Go"
+		],
+		"country": "US"
+	}
+]
