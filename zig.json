@@ -125,6 +125,23 @@
 				"saturating arithmetic",
 				"compile errors for unused locals"
 			]
+		},
+		{
+			"version": "0.9.1",
+			"date": "2022-02-14",
+			"src": "https://ziglang.org/download/0.9.1/release-notes.html",
+		},
+		{
+			"version": "0.10.0",
+			"date": "2022-10-31",
+			"src": "https://ziglang.org/download/0.10.0/release-notes.html",
+			"features": [
+				"début of the Self-Hosted Compiler",
+				"compile-time known function body types",
+				"inline switch cases",
+				"f80 primitive floating-point type",
+				"misleading whitespace is a compile error"
+			]
 		}
 	]
 }
