@@ -27,6 +27,53 @@
 				"added unsigned int type",
 				"moved from =op to op= for compound assigments"
 			]
+		},
+		{
+			"version": "ANSI C",
+			"date": "1989-12-14",
+			"features": [
+				"function prototypes",
+				"void pointers",
+				"new function parameter syntax"
+			]
+		},
+		{
+			"version": "C99",
+			"date": "1999-12-01",
+			"features": [
+				"inline functions",
+				"mixed declarations and code",
+				"long long int type",
+				"boolean data type",
+				"complex type",
+				"variable-length arrays",
+				"flexible array members",
+				"one line comments",
+				"designated initializers",
+				"compound literals",
+				"variadic macros"
+			]
+		},
+		{
+			"version": "C11",
+			"date": "2011-12-08",
+			"features": [
+				"aligment specification",
+				"_Noreturn functions",
+				"multithreading support",
+				"improved unicode support",
+				"bounds-checking interfaces",
+				"anonymous structures and unions",
+				"static assertions",
+				"type-generic expressions using _Generic"
+			]
+		},
+		{
+			"version": "C17",
+			"date": "2018-07-05",
+			"features": [
+				"deprecated realloc with 0 size"
+			]
 		}
 	]
 }
