@@ -104,7 +104,7 @@
 			"features": [
 				"Indivdual overloading of comparison operators",
 				"Warning framework",
-				"Function attributes",
+				"Function attributes"
 			]
 		},
 		{
@@ -113,7 +113,8 @@
 			"features": [
 				"Attribute descriptors",
 				"Iterators",
-				"New // division operator",
+				"New // division operator"
+			]
 		},
 		{
 			"date": "2003-06-29",
@@ -215,7 +216,7 @@
 			"features": [
 				"delagate to subgenerator with yield from",
 				"Virtual environments",
-				"Suppressing exception context with raise X from Y",
+				"Suppressing exception context with raise X from Y"
 			]
 		},
 		{
@@ -243,7 +244,7 @@
 				"Preserving Keyword Argument Order",
 				"Literal string interprolation (fstrings)",
 				"Underscores in numeric literals",
-				"Simpler class customization with __init_subclass__ hook",
+				"Simpler class customization with __init_subclass__ hook"
 			]
 		},
 		{
@@ -262,7 +263,7 @@
 			"features": [
 				"Assigment expressions",
 				"Positional-only arguments",
-				"f-strings support = specifier",
+				"f-strings support = specifier"
 			]
 		},
 		{

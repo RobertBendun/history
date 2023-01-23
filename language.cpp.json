@@ -59,7 +59,7 @@
 				"range-for",
 				"static_assert",
 				"<array>, <chrono>, <random>, <tuple> and others",
-				"smart pointers",
+				"smart pointers"
 			]
 		},
 		{
@@ -72,7 +72,7 @@
 				"digit separators",
 				"binary literals",
 				"return type deduction",
-				"std::exchange",
+				"std::exchange"
 			]
 		},
 		{
