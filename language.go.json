@@ -75,6 +75,25 @@
 				"go doc",
 				"type ellision in map literals keys"
 			]
+		},
+		{
+			"version": "1.6",
+			"src": "https://go.dev/doc/go1.6",
+			"date": "2016-02-17",
+			"features": [
+				"automatic support for HTTP/2",
+				"template reuse mechanism"
+			]
+		},
+		{
+			"version": "1.7",
+			"src": "https://go.dev/doc/go1.7",
+			"date": "2016-08-15",
+			"features": [
+				"context package",
+				"hierarchies of tests and benchmarks",
+				"vendoring support"
+			]
 		}
 	]
 }
