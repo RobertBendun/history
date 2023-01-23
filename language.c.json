@@ -1,0 +1,32 @@
+{
+	"name": "C",
+	"category": "programming languages",
+	"website": "https://en.wikipedia.org/wiki/C_(programming_language)",
+	"influenced_by": [
+		"B",
+		"ALGOL 68",
+		"FORTRAN"
+	],
+	"releases": [
+		{
+			"version": "Included with Version 2 Unix",
+			"date": "1972-06-12",
+			"features": [
+				"arrays",
+				"char type",
+				"pointers",
+				"function return types"
+			]
+		},
+		{
+			"version": "K&R",
+			"date": "1978-02-22",
+			"features": [
+				"added stdio library",
+				"added long int type",
+				"added unsigned int type",
+				"moved from =op to op= for compound assigments"
+			]
+		}
+	]
+}
