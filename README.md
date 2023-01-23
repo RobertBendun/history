@@ -13,3 +13,10 @@ Feel free to contribute since it's mostly manual work. Data in all shape and siz
 - `language.*` files containing definition of programming languages, including releases
 - `people.*` files containing people relevant to programming language creation
 - `schema.*` files containg [JSON Schema](https://json-schema.org/) describing other categories of files
+
+## Resources
+
+### Go
+
+- [Release dates](https://go.dev/doc/devel/release)
+- Release notes at: `https://go.dev/doc/go<version>`
