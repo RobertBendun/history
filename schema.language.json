@@ -1,0 +1,69 @@
+{
+	"$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "programmers-calendar/Language",
+  "title": "Language",
+  "description": "Definition of a programming language and it's releases",
+  "type": "object",
+	"additionalProperties": false,
+	"required": [
+		"name",
+		"category",
+		"releases"
+	],
+	"properties": {
+		"name": {
+			"description": "Name of programming language",
+			"type": "string"
+		},
+		"category": {
+			"description": "Category of document that this falls into",
+			"type": "string",
+			"enum": ["programming languages"]
+		},
+		"influenced_by": {
+			"description": "Languages that influenced this programming language",
+			"type": "array",
+			"items": {
+				"type": "string"
+			}
+		},
+		"website": {
+			"description": "Link to programming language website",
+			"type": "string"
+		},
+		"releases": {
+			"description": "All releases of programming language",
+			"type": "array",
+			"items": {
+				"type": "object",
+				"additionalProperties": false,
+				"required": [
+					"version",
+					"date",
+					"features"
+				],
+				"properties": {
+					"version": {
+						"description": "Version identifier of this release",
+						"type": "string"
+					},
+					"date": {
+						"description": "Date of release",
+						"type": "string"
+					},
+					"src": {
+						"description": "Source of documentation about release",
+						"type": "string"
+					},
+					"features": {
+						"description": "Key features shipped with this realease",
+						"type": "array",
+						"items": {
+							"type": "string"
+						}
+					}
+				}
+			}
+		}
+	}
+}
