@@ -16,6 +16,11 @@ Feel free to contribute since it's mostly manual work. Data in all shape and siz
 
 ## Resources
 
+### D
+
+- [1.0 changelog](https://www.digitalmars.com/d/1.0/changelog.html)
+- [2.0 changelog](https://dlang.org/changelog/index.html)
+
 ### Go
 
 - [Release dates](https://go.dev/doc/devel/release)
