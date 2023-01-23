@@ -18,6 +18,8 @@ Feel free to contribute since it's mostly manual work. Data in all shape and siz
 
 ### D
 
+- [0.0-0.139 changelog](https://www.digitalmars.com/d/1.0/changelog1.html)
+- [0.139-1.0 changelog](https://www.digitalmars.com/d/1.0/changelog2.html)
 - [1.0 changelog](https://www.digitalmars.com/d/1.0/changelog.html)
 - [2.0 changelog](https://dlang.org/changelog/index.html)
 
