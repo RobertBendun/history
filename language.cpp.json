@@ -94,7 +94,7 @@
 		},
 		{
 			"version": "C++20",
-			"date": "2020-12",
+			"date": "2020-12-15",
 			"features": [
 				"3-way comparison operator <=>",
 				"pack-expansion in lambda init-captures",
