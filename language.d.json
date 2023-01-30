@@ -49,17 +49,17 @@
 			"date": "2007-02-20"
 		},
 		{
-			"version": "1.008",
+			"version": "1.009",
 			"date": "2007-03-10",
 			"src": "https://www.digitalmars.com/d/1.0/changelog.html"
 		},
 		{
-			"version": "1.009",
+			"version": "1.010",
 			"date": "2007-03-24",
 			"src": "https://www.digitalmars.com/d/1.0/changelog.html"
 		},
 		{
-			"version": "1.010",
+			"version": "1.011",
 			"src": "https://www.digitalmars.com/d/1.0/changelog.html",
 			"features": [
 				"template partial specialization derived from multiple parameters",
@@ -68,7 +68,7 @@
 			"date": "2007-04-11"
 		},
 		{
-			"version": "1.011",
+			"version": "1.012",
 			"src": "https://www.digitalmars.com/d/1.0/changelog.html",
 			"features": [
 				"ref instead of inout",
@@ -78,17 +78,17 @@
 			"date": "2007-04-12"
 		},
 		{
-			"version": "1.012",
+			"version": "1.013",
 			"date": "2007-04-19",
 			"src": "https://www.digitalmars.com/d/1.0/changelog.html"
 		},
 		{
-			"version": "1.013",
+			"version": "1.014",
 			"date": "2007-04-26",
 			"src": "https://www.digitalmars.com/d/1.0/changelog.html"
 		},
 		{
-			"version": "1.014",
+			"version": "1.015",
 			"src": "https://www.digitalmars.com/d/1.0/changelog.html",
 			"features": [
 				"associative array literals",
@@ -97,307 +97,334 @@
 			"date": "2007-06-05"
 		},
 		{
-			"version": "1.015",
+			"version": "1.016",
 			"date": "2007-06-14",
 			"src": "https://www.digitalmars.com/d/1.0/changelog.html"
 		},
 		{
-			"version": "1.016",
+			"version": "1.017",
 			"date": "2007-06-25",
 			"src": "https://www.digitalmars.com/d/1.0/changelog.html"
 		},
 		{
-			"version": "1.017",
+			"version": "1.018",
 			"date": "2007-07-01",
 			"src": "https://www.digitalmars.com/d/1.0/changelog.html"
 		},
 		{
-			"version": "1.018",
+			"version": "1.019",
 			"date": "2007-07-21",
 			"src": "https://www.digitalmars.com/d/1.0/changelog.html"
 		},
 		{
-			"version": "1.019",
+			"version": "1.020",
 			"date": "2007-07-23",
 			"src": "https://www.digitalmars.com/d/1.0/changelog.html"
 		},
 		{
-			"version": "1.020",
+			"version": "1.021",
 			"date": "2007-09-05",
 			"src": "https://www.digitalmars.com/d/1.0/changelog.html"
 		},
 		{
-			"version": "1.021",
+			"version": "1.022",
 			"date": "2007-10-01",
 			"src": "https://www.digitalmars.com/d/1.0/changelog.html"
 		},
 		{
-			"version": "1.022",
+			"version": "1.023",
 			"date": "2007-10-31",
 			"src": "https://www.digitalmars.com/d/1.0/changelog.html"
 		},
 		{
-			"version": "1.023",
+			"version": "1.024",
 			"date": "2007-11-27",
 			"src": "https://www.digitalmars.com/d/1.0/changelog.html"
 		},
 		{
-			"version": "1.024",
+			"version": "1.025",
 			"date": "2008-01-01",
 			"src": "https://www.digitalmars.com/d/1.0/changelog.html"
 		},
 		{
-			"version": "1.025",
+			"version": "1.026",
 			"date": "2008-01-20",
 			"src": "https://www.digitalmars.com/d/1.0/changelog.html"
 		},
 		{
-			"version": "1.026",
+			"version": "1.027",
 			"date": "2008-02-18",
 			"src": "https://www.digitalmars.com/d/1.0/changelog.html"
 		},
 		{
-			"version": "1.027",
+			"version": "1.028",
 			"date": "2008-03-06",
 			"src": "https://www.digitalmars.com/d/1.0/changelog.html"
 		},
 		{
-			"version": "1.028",
+			"version": "1.029",
 			"date": "2008-04-23",
 			"src": "https://www.digitalmars.com/d/1.0/changelog.html"
 		},
 		{
-			"version": "1.029",
+			"version": "1.030",
 			"date": "2008-05-16",
 			"src": "https://www.digitalmars.com/d/1.0/changelog.html"
 		},
 		{
-			"version": "1.030",
+			"version": "1.031",
 			"date": "2008-06-18",
 			"src": "https://www.digitalmars.com/d/1.0/changelog.html"
 		},
 		{
-			"version": "1.031",
+			"version": "1.032",
 			"date": "2008-07-09",
 			"src": "https://www.digitalmars.com/d/1.0/changelog.html"
 		},
 		{
-			"version": "1.032",
+			"version": "1.033",
 			"date": "2008-07-11",
 			"src": "https://www.digitalmars.com/d/1.0/changelog.html"
 		},
 		{
-			"version": "1.033",
+			"version": "1.034",
 			"date": "2008-08-07",
 			"src": "https://www.digitalmars.com/d/1.0/changelog.html"
 		},
 		{
-			"version": "1.034",
+			"version": "1.035",
 			"date": "2008-09-02",
-			"src": "https://www.digitalmars.com/d/1.0/changelog.html"
+			"src": "https://www.digitalmars.com/d/1.0/changelog.html",
+			"features": [
+				"array programming"
+			]
 		},
 		{
-			"version": "1.035",
+			"version": "1.036",
 			"date": "2008-10-20",
 			"src": "https://www.digitalmars.com/d/1.0/changelog.html"
 		},
 		{
-			"version": "1.036",
+			"version": "1.037",
 			"date": "2008-11-25",
 			"src": "https://www.digitalmars.com/d/1.0/changelog.html"
 		},
 		{
-			"version": "1.037",
+			"version": "1.038",
 			"date": "2008-12-11",
 			"src": "https://www.digitalmars.com/d/1.0/changelog.html"
 		},
 		{
-			"version": "1.038",
+			"version": "1.039",
 			"date": "2009-01-14",
 			"src": "https://www.digitalmars.com/d/1.0/changelog.html"
 		},
 		{
-			"version": "1.039",
+			"version": "1.040",
 			"date": "2009-02-11",
 			"src": "https://www.digitalmars.com/d/1.0/changelog.html"
 		},
 		{
-			"version": "1.040",
+			"version": "1.041",
 			"date": "2009-03-03",
-			"src": "https://www.digitalmars.com/d/1.0/changelog.html"
+			"src": "https://www.digitalmars.com/d/1.0/changelog.html",
+			"features": [
+				"macOS support"
+			]
 		},
 		{
-			"version": "1.041",
+			"version": "1.042",
 			"date": "2009-03-31",
 			"src": "https://www.digitalmars.com/d/1.0/changelog.html"
 		},
 		{
-			"version": "1.042",
+			"version": "1.043",
 			"date": "2009-04-06",
 			"src": "https://www.digitalmars.com/d/1.0/changelog.html"
 		},
 		{
-			"version": "1.043",
+			"version": "1.044",
 			"date": "2009-04-09",
 			"src": "https://www.digitalmars.com/d/1.0/changelog.html"
 		},
 		{
-			"version": "1.044",
+			"version": "1.045",
 			"date": "2009-05-11",
 			"src": "https://www.digitalmars.com/d/1.0/changelog.html"
 		},
 		{
-			"version": "1.045",
+			"version": "1.046",
 			"date": "2009-07-06",
 			"src": "https://www.digitalmars.com/d/1.0/changelog.html"
 		},
 		{
-			"version": "1.046",
+			"version": "1.047",
 			"date": "2009-09-02",
 			"src": "https://www.digitalmars.com/d/1.0/changelog.html"
 		},
 		{
-			"version": "1.047",
+			"version": "1.048",
 			"date": "2009-10-05",
-			"src": "https://www.digitalmars.com/d/1.0/changelog.html"
+			"src": "https://www.digitalmars.com/d/1.0/changelog.html",
+			"features": [
+				"CTFE supports member functions",
+				"CTFE supports operator overloading",
+				"CTFE supports nested functions"
+			]
 		},
 		{
-			"version": "1.048",
+			"version": "1.049",
 			"date": "2009-10-11",
 			"src": "https://www.digitalmars.com/d/1.0/changelog.html"
 		},
 		{
-			"version": "1.049",
+			"version": "1.050",
 			"date": "2009-10-14",
 			"src": "https://www.digitalmars.com/d/1.0/changelog.html"
 		},
 		{
-			"version": "1.050",
+			"version": "1.051",
 			"date": "2009-11-05",
 			"src": "https://www.digitalmars.com/d/1.0/changelog.html"
 		},
 		{
-			"version": "1.051",
+			"version": "1.052",
 			"date": "2009-11-12",
 			"src": "https://www.digitalmars.com/d/1.0/changelog.html"
 		},
 		{
-			"version": "1.052",
+			"version": "1.053",
 			"date": "2009-12-03",
 			"src": "https://www.digitalmars.com/d/1.0/changelog.html"
 		},
 		{
-			"version": "1.053",
+			"version": "1.054",
 			"date": "2009-12-30",
 			"src": "https://www.digitalmars.com/d/1.0/changelog.html"
 		},
 		{
-			"version": "1.054",
+			"version": "1.055",
 			"date": "2010-01-01",
 			"src": "https://www.digitalmars.com/d/1.0/changelog.html"
 		},
 		{
-			"version": "1.055",
+			"version": "1.056",
 			"date": "2010-01-29",
 			"src": "https://www.digitalmars.com/d/1.0/changelog.html"
 		},
 		{
-			"version": "1.056",
+			"version": "1.057",
 			"date": "2010-03-07",
-			"src": "https://www.digitalmars.com/d/1.0/changelog.html"
+			"src": "https://www.digitalmars.com/d/1.0/changelog.html",
+			"features": [
+				"CTFE supports delegates and function pointers",
+				"CTFE supports delegate and function literals",
+				"CTFE supports lazy function parameters"
+			]
 		},
 		{
-			"version": "1.057",
+			"version": "1.058",
 			"date": "2010-04-06",
 			"src": "https://www.digitalmars.com/d/1.0/changelog.html"
 		},
 		{
-			"version": "1.058",
+			"version": "1.059",
 			"date": "2010-04-30",
 			"src": "https://www.digitalmars.com/d/1.0/changelog.html"
 		},
 		{
-			"version": "1.059",
+			"version": "1.060",
 			"date": "2010-05-04",
 			"src": "https://www.digitalmars.com/d/1.0/changelog.html"
 		},
 		{
-			"version": "1.060",
+			"version": "1.061",
 			"date": "2010-05-10",
 			"src": "https://www.digitalmars.com/d/1.0/changelog.html"
 		},
 		{
-			"version": "1.061",
+			"version": "1.062",
 			"date": "2010-06-09",
 			"src": "https://www.digitalmars.com/d/1.0/changelog.html"
 		},
 		{
-			"version": "1.062",
+			"version": "1.063",
 			"date": "2010-08-08",
 			"src": "https://www.digitalmars.com/d/1.0/changelog.html"
 		},
 		{
-			"version": "1.063",
+			"version": "1.064",
 			"date": "2010-09-13",
 			"src": "https://www.digitalmars.com/d/1.0/changelog.html"
 		},
 		{
-			"version": "1.064",
+			"version": "1.065",
 			"date": "2010-10-29",
 			"src": "https://www.digitalmars.com/d/1.0/changelog.html"
 		},
 		{
-			"version": "1.065",
+			"version": "1.066",
 			"date": "2010-12-21",
 			"src": "https://www.digitalmars.com/d/1.0/changelog.html"
 		},
 		{
-			"version": "1.066",
+			"version": "1.067",
 			"date": "2011-02-17",
 			"src": "https://www.digitalmars.com/d/1.0/changelog.html"
 		},
 		{
-			"version": "1.067",
+			"version": "1.068",
 			"date": "2011-05-12",
-			"src": "https://www.digitalmars.com/d/1.0/changelog.html"
+			"src": "https://www.digitalmars.com/d/1.0/changelog.html",
+			"features": [
+				"64-bit Linux supported"
+			]
 		},
 		{
-			"version": "1.068",
+			"version": "1.069",
 			"date": "2011-07-10",
 			"src": "https://www.digitalmars.com/d/1.0/changelog.html"
 		},
 		{
-			"version": "1.069",
+			"version": "1.070",
 			"date": "2011-09-04",
-			"src": "https://www.digitalmars.com/d/1.0/changelog.html"
+			"src": "https://www.digitalmars.com/d/1.0/changelog.html",
+			"features": [
+				"CTFE supports labeled break and continue",
+				"CTFE supports pointers",
+				"CTFE supports heap allocation for structs"
+			]
 		},
 		{
-			"version": "1.070",
+			"version": "1.071",
 			"date": "2011-10-26",
 			"src": "https://www.digitalmars.com/d/1.0/changelog.html"
 		},
 		{
-			"version": "1.071",
+			"version": "1.072",
 			"date": "2011-12-10",
 			"src": "https://www.digitalmars.com/d/1.0/changelog.html"
 		},
 		{
-			"version": "1.072",
+			"version": "1.073",
 			"date": "2012-02-08",
-			"src": "https://www.digitalmars.com/d/1.0/changelog.html"
+			"src": "https://www.digitalmars.com/d/1.0/changelog.html",
+			"features": [
+				"CTFE supports classes, interfaces and exceptions"
+			]
 		},
 		{
-			"version": "1.073",
+			"version": "1.074",
 			"date": "2012-04-12",
 			"src": "https://www.digitalmars.com/d/1.0/changelog.html"
 		},
 		{
-			"version": "1.074",
+			"version": "1.075",
 			"date": "2012-08-02",
 			"src": "https://www.digitalmars.com/d/1.0/changelog.html"
 		},
 		{
-			"version": "1.075",
+			"version": "1.076",
 			"date": "2012-12-31",
 			"src": "https://www.digitalmars.com/d/1.0/changelog.html"
 		}
