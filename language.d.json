@@ -1,5 +1,6 @@
 {
 	"name": "D",
+	"category": "programming languages",
 	"releases": [
 		{
 			"version": "1.001",
