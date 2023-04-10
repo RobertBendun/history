@@ -2,7 +2,6 @@
 from datetime import datetime
 from glob import glob
 import json
-import contextlib
 
 current_year = datetime.now().year
 begin = datetime(current_year, 1, 1)
@@ -39,7 +38,7 @@ for event in all_dates:
 
 print("   ", end="")
 for n in range(31):
-    n = n // 10
+    n = (n+1) // 10
     if n < 1:
         print(" ", end="")
     else:
