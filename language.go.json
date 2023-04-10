@@ -94,6 +94,141 @@
 				"hierarchies of tests and benchmarks",
 				"vendoring support"
 			]
+		},
+		{
+			"version": "1.8",
+			"src": "https://go.dev/doc/go1.8",
+			"date": "2017-02-16",
+			"features": [
+				"structs that differ only in tags may be converted between each other",
+				"backend using SSA",
+				"default value for GOPATH",
+				"sort.Slice function"
+			]
+		},
+		{
+			"version": "1.9",
+			"src": "https://go.dev/doc/go1.9",
+			"date": "2017-08-24",
+			"features": [
+				"type aliases",
+				"parallel compilation",
+				"monotonic time support",
+				"math/bits, package for manipulating bits in efficient way",
+				"concurrent map in sync package"
+			]
+		},
+		{
+			"version": "1.10",
+			"src": "https://go.dev/doc/go1.10",
+			"date": "2018-02-16",
+			"features": [
+				"default GOROOT and GOTEMPDIR",
+				"caching in Go tools improvements"
+			]
+		},
+		{
+			"version": "1.11",
+			"src": "https://go.dev/doc/go1.11",
+			"date": "2018-08-24",
+			"features": [
+				"experimental port to WebAssembly",
+				"experimental support of modules"
+			]
+		},
+		{
+			"version": "1.12",
+			"src": "https://go.dev/doc/go1.12",
+			"date": "2019-02-25",
+			"features": [
+				"go tour is no longer with binary distribution of Go",
+				"support of TLS 1.3"
+			]
+		},
+		{
+			"version": "1.13",
+			"src": "https://go.dev/doc/go1.13",
+			"date": "2019-09-03",
+			"features": [
+				"binary integer literals with 0b prefix",
+				"octal integer literals with 0o prefix",
+				"hexadecimal floting-point literals",
+				"imaginery literals",
+				"digit separators using _",
+				"support for error wrapping"
+			]
+		},
+		{
+			"version": "1.14",
+			"src": "https://go.dev/doc/go1.14",
+			"date": "2020-02-25",
+			"features": [
+				"module support ready for production use",
+				"hash/maphash, hash functions for byte sequences"
+			]
+		},
+		{
+			"version": "1.15",
+			"src": "https://go.dev/doc/go1.15",
+			"date": "2020-08-11",
+			"features": [
+				"linker improvements for performance and maintability",
+				"time/tzdata allows for inclusion of timezone database into binary"
+			]
+		},
+		{
+			"version": "1.16",
+			"src": "https://go.dev/doc/go1.16",
+			"date": "2021-02-16",
+			"features": [
+				"support for Apple Silicon architecture",
+				"module-aware mode enabled by default",
+				"//go:embed directive",
+				"runtime/metrics, stable interface for implementation-defined metrics from Go runtime",
+				"io/fs, abstraction for read-only trees of files",
+				"io/ioutil deprecation"
+			]
+		},
+		{
+			"version": "1.17",
+			"src": "https://go.dev/doc/go1.17",
+			"date": "2021-08-16",
+			"features": [
+				"conversions from slice to array pointer",
+				"support for 64-bit ARM on Windows"
+			]
+		},
+		{
+			"version": "1.18",
+			"src": "https://go.dev/doc/go1.18",
+			"date": "2022-03-15",
+			"features": [
+				"functions and type declarations with type parameters",
+				"instantiation of parametrized types and functions with square brackets",
+				"interface types allow for embeding types",
+				"predefined any as shorthand for interface{}",
+				"predefined comparable as shorthand for types that can be equality compared",
+				"debug/buildinfo, giving access to module verions, version control information and build flags"
+			]
+		},
+		{
+			"version": "1.19",
+			"src": "https://go.dev/doc/go1.19",
+			"date": "2022-08-02",
+			"features": [
+				"new atomic types",
+				"secure PATH lookups"
+			]
+		},
+		{
+			"version": "1.20",
+			"src": "https://go.dev/doc/go1.20",
+			"date": "2023-02-01",
+			"features": [
+				"conversions from slice to array",
+				"suport for code coverage of all programs",
+				"errors can wrap multiple errors"
+			]
 		}
 	]
 }
