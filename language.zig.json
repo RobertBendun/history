@@ -127,11 +127,6 @@
 			]
 		},
 		{
-			"version": "0.9.1",
-			"date": "2022-02-14",
-			"src": "https://ziglang.org/download/0.9.1/release-notes.html"
-		},
-		{
 			"version": "0.10.0",
 			"date": "2022-10-31",
 			"src": "https://ziglang.org/download/0.10.0/release-notes.html",
@@ -142,11 +137,6 @@
 				"f80 primitive floating-point type",
 				"misleading whitespace is a compile error"
 			]
-		},
-		{
-			"version": "0.10.1",
-			"date": "2023-01-19",
-			"src": "https://ziglang.org/download/0.10.1/release-notes.html"
 		}
 	]
 }
