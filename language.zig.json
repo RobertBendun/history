@@ -97,7 +97,10 @@
 		{
 			"version": "0.7.0",
 			"date": "2020-11-08",
-			"src": "https://ziglang.org/download/0.7.0/release-notes.html",
+			"src": [
+				"https://ziglang.org/download/0.7.0/release-notes.html",
+				"https://github.com/ziglang/zig/milestone/9?closed=1"
+			],
 			"features": []
 		},
 		{
@@ -136,6 +139,18 @@
 				"inline switch cases",
 				"f80 primitive floating-point type",
 				"misleading whitespace is a compile error"
+			]
+		},
+		{
+			"version": "0.11.0",
+			"date": "2023-08-03",
+			"src": "https://ziglang.org/download/0.11.0/release-notes.html",
+			"features": [
+				"package manager",
+				"Zig Object Notation",
+				"multi-object for loops",
+				"tuple types syntax",
+				"networking in standard library"
 			]
 		}
 	]
