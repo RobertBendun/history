@@ -229,6 +229,19 @@
 				"suport for code coverage of all programs",
 				"errors can wrap multiple errors"
 			]
+		},
+		{
+			"version": "1.21",
+			"src": "https://go.dev/doc/go1.21",
+			"date": "2023-08-08",
+			"features": [
+				"min and max builtins",
+				"profile-guide optimization",
+				"log/slog, a structured logging package",
+				"slices, a generic slice operations package",
+				"maps, a generic maps package",
+				"cmp, generic functions related to comparisons package"
+			]
 		}
 	]
 }
