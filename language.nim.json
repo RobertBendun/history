@@ -3,6 +3,15 @@
 	"category": "programming languages",
 	"website": "https://nim-lang.org/",
 	"influenced_by": [
+		"Ada",
+		"C++",
+		"Lisp",
+		"Modula-3",
+		"Oberon",
+		"Object Pascal",
+		"ParaSail",
+		"Python",
+		"Rust",
 	],
 	"releases": [
 		{
