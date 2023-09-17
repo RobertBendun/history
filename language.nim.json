@@ -1,0 +1,65 @@
+{
+	"name": "Nim",
+	"category": "programming languages",
+	"website": "https://nim-lang.org/",
+	"influenced_by": [
+	],
+	"releases": [
+		{
+			"version": "2.0.0",
+			"date": "2023-08-01",
+			"src": "https://nim-lang.org/blog/2023/08/01/nim-v20-released.html",
+			"features": [
+				"nested tuples unpacking",
+				"improved type inference (top-down interference)",
+				"forbidden effects (tags) in effect system",
+				"distinct path type",
+				"overloadable enums",
+				"default object values",
+				"strict effects"
+			]
+		},
+		{
+			"version": "1.6.0",
+			"date": "2021-10-19",
+			"src": "https://nim-lang.org/blog/2021/10/19/version-160-released.html",
+			"features": [
+				"iterable[T] - type class for iterators",
+				"strict effects and effect system",
+				"std/sysrand - cryptographically secure pseudorandom number generator",
+				"user-defined literals",
+				"dot-like operators",
+				"optional arguments for blocks"
+			]
+		},
+		{
+			"version": "1.4.0",
+			"date": "2020-10-16",
+			"src": "https://nim-lang.org/blog/2020/10/16/version-140-released.html",
+			"features": [
+				"nim r command",
+				"{.acyclic.} - mark data structure as acyclic",
+				"strict functions"
+			]
+		},
+		{
+			"version": "1.2.0",
+			"date": "2020-04-03",
+			"src": "https://nim-lang.org/blog/2020/04/03/version-120-released.html",
+			"features": [
+				"when declared - checking if name was declared",
+				"collect macro - comprehansions for sequences, sets and tables",
+				"dup macro - convert in-place function to one that returns instead a copy",
+				"capture macro - capture local state (like loop variables)"
+			]
+		},
+		{
+			"version": "1.0.0",
+			"date": "2019-09-23",
+			"src": "https://nim-lang.org/blog/2019/09/23/version-100-released.html",
+			"features": [
+				"promise of backwards compatibility"
+			]
+		}
+	]
+}
