@@ -295,6 +295,19 @@
 				"self type annoatation",
 				"arbitrary literal string type"
 			]
+		},
+		{
+			"date": "2023-10-02",
+			"version": "3.12",
+			"src": "https://docs.python.org/3.12/whatsnew/3.12.html",
+			"features": [
+				"type parameter syntax",
+				"type statement",
+				"cryptographic functions translated from HACL* project",
+				"quote reuse inside f-strings",
+				"multiline expressions in f-strings",
+				"per-interpreter GIL"
+			]
 		}
 	]
 }
