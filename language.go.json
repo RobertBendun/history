@@ -242,6 +242,18 @@
 				"maps, a generic maps package",
 				"cmp, generic functions related to comparisons package"
 			]
+		},
+		{
+			"version": "1.22",
+			"src": "https://go.dev/doc/go1.22",
+			"date": "2024-02-06",
+			"features": [
+				"new variable per each loop iteration",
+				"loops over integer range",
+				"preview of range-over-function iterators",
+				"math/rand/v2 (while keeping math/rand)",
+				"enhanced builtin HTTP router with methods and wildcars"
+			]
 		}
 	]
 }
