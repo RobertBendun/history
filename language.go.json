@@ -250,9 +250,34 @@
 			"features": [
 				"new variable per each loop iteration",
 				"loops over integer range",
-				"preview of range-over-function iterators",
 				"math/rand/v2 (while keeping math/rand)",
 				"enhanced builtin HTTP router with methods and wildcars"
+			]
+		},
+		{
+			"version": "1.23",
+			"src": "https://go.dev/doc/go1.23",
+			"date": "2024-08-13",
+			"features": [
+				"range over function types",
+				"opt-in telemetry",
+				"unique package providing intering",
+				"iter package with support for iterators",
+				"slices package extended with iterator support",
+				"maps package extended with iterator support",
+				"structs package that allow to change memory layout of structs"
+			]
+		},
+		{
+			"version": "1.24",
+			"src": "https://go.dev/doc/go1.24",
+			"date": "2025-02-11",
+			"features": [
+				"generic type aliases",
+				"os.Root, a way to sandbox fs operations to specific directory",
+				"weak package with weak pointers",
+				"runtime.AddCleanup improves finalizers",
+				"new crypto packages: mlkem, hkdf, pbkdf2, sha3"
 			]
 		}
 	]
