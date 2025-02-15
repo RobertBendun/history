@@ -162,7 +162,18 @@
 				"var for never mutated data is an error",
 				"indexable aggregates destructuring",
 				"type equivalence based on captures and location",
-				"support for Windows resource scripts",
+				"support for Windows resource scripts"
+			]
+		},
+		{
+			"version": "0.13.0",
+			"date": "2024-06-06",
+			"src": "https://ziglang.org/download/0.13.0/release-notes.html",
+			"features": [
+				"BatBadBut Mitigation",
+				"std.zip package",
+				"zip archive support in build.zig.zon",
+				"upgrade to LLVM 18"
 			]
 		}
 	]
