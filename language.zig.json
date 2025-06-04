@@ -175,6 +175,16 @@
 				"zip archive support in build.zig.zon",
 				"upgrade to LLVM 18"
 			]
+		},
+		{
+			"version": "0.14.0",
+			"date": "",
+			"src": "https://ziglang.org/download/0.14.0/release-notes.html",
+			"features": [
+				"labeled switch",
+				"decl literals",
+				"removal of anonymous struct types"
+			]
 		}
 	]
 }
