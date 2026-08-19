@@ -279,6 +279,26 @@
 				"runtime.AddCleanup improves finalizers",
 				"new crypto packages: mlkem, hkdf, pbkdf2, sha3"
 			]
+		},
+		{
+			"version": "1.25",
+			"src": "https://go.dev/doc/go1.25",
+			"date": "",
+			"features": [
+				"testing/synctest package introduced support for testing concurrent code",
+				"container-awere GOMAXPROCS"
+			]
+		},
+		{
+			"version": "1.26",
+			"src": "https://go.dev/doc/go1.26",
+			"date": "",
+			"features": [
+				"new function now accepts expressions",
+				"new Green Tea Garbage Collector",
+				"new crypto/hpke package",
+				"new experimental runtime/secret package"
+			]
 		}
 	]
 }
